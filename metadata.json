@@ -1,0 +1,11 @@
+{
+  "uuid": "last-call@faymaz",
+  "name": "Last Call",
+  "description": "Displays prayer times from Diyanet and notifies when a prayer time is approaching.",
+  "version": 1,
+  "shell-version": ["45", "46"],
+  "url": "https://github.com/faymaz/last-call",
+  "gettext-domain": "last-call@faymaz",
+  "settings-schema": "org.gnome.shell.extensions.last-call",
+  "hasPrefs": true
+}

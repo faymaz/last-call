@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: last-call\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Prayer Times"
+msgstr "Prayer Times"
+
+msgid "Select City:"
+msgstr "Select City:"
+
+msgid "Fajr"
+msgstr "Fajr"
+
+msgid "Dhuha"
+msgstr "Dhuha"
+
+msgid "Dhuhr"
+msgstr "Dhuhr"
+
+msgid "Asr"
+msgstr "Asr"
+
+msgid "Maghrib"
+msgstr "Maghrib"
+
+msgid "Isha"
+msgstr "Isha"
