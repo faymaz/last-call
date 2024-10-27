@@ -2,9 +2,9 @@
 <schemalist>
   <schema id="org.gnome.shell.extensions.last-call" path="/org/gnome/shell/extensions/last-call/">
     <key name="selected-city" type="s">
-      <default>'Mörfelden-Walldorf'</default>
-      <summary>Selected City</summary>
-      <description>The city for which to display prayer times.</description>
+      <default>"Mörfelden-Walldorf"</default>
+      <summary>Seçili Şehir</summary>
+      <description>Kullanıcının seçtiği şehir.</description>
     </key>
   </schema>
 </schemalist>
