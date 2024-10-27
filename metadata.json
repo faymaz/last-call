@@ -3,9 +3,6 @@
   "name": "Last Call",
   "description": "Displays prayer times from Diyanet and notifies when a prayer time is approaching.",
   "version": 1,
-  "shell-version": ["45", "46"],
-  "url": "https://github.com/faymaz/last-call",
-  "gettext-domain": "last-call@faymaz",
-  "settings-schema": "org.gnome.shell.extensions.last-call",
-  "hasPrefs": true
+  "shell-version": ["43.0", "43.1", "43.2", "43.3", "43.4", "43.5", "43.6", "43.7", "43.8", "43.9"],
+  "settings-schema": "org.gnome.shell.extensions.last-call"
 }
