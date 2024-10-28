@@ -73,3 +73,59 @@ import * as Dialog from 'resource:///org/gnome/shell/ui/dialog.js';
 
 import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 import * as MessageTray from 'resource:///org/gnome/shell/ui/messageTray.js';
+
+
+
+
+import Clutter from 'gi://Clutter';
+import GObject from 'gi://GObject';
+import St from 'gi://St';
+
+import {Extension, gettext as _} from 'resource:///org/gnome/shell/extensions/extension.js';
+
+import * as Main from 'resource:///org/gnome/shell/ui/main.js';
+import * as PanelMenu from 'resource:///org/gnome/shell/ui/panelMenu.js';
+import * as PopupMenu from 'resource:///org/gnome/shell/ui/popupMenu.js';
+
+import {PlacesManager} from './placeDisplay.js';
+
+import * as Main from 'resource:///org/gnome/shell/ui/main.js';
+
+import Clutter from 'gi://Clutter';
+import Gio from 'gi://Gio';
+import GObject from 'gi://GObject';
+import Shell from 'gi://Shell';
+import St from 'gi://St';
+
+import {Extension, gettext as _} from 'resource:///org/gnome/shell/extensions/extension.js';
+
+import * as Main from 'resource:///org/gnome/shell/ui/main.js';
+import * as PanelMenu from 'resource:///org/gnome/shell/ui/panelMenu.js';
+import * as PopupMenu from 'resource:///org/gnome/shell/ui/popupMenu.js';
+import * as ShellMountOperation from 'resource:///org/gnome/shell/ui/shellMountOperation.js';
+
+Gio._promisify(Gio.File.prototype, 'query_filesystem_info_async');
+
+import Shell from 'gi://Shell';
+
+import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
+import * as Main from 'resource:///org/gnome/shell/ui/main.js';
+import Meta from 'gi://Meta';
+
+
+import Clutter from 'gi://Clutter';
+import Gio from 'gi://Gio';
+import GLib from 'gi://GLib';
+import GObject from 'gi://GObject';
+import GTop from 'gi://GTop';
+import Pango from 'gi://Pango';
+import Shell from 'gi://Shell';
+import St from 'gi://St';
+
+import {Extension, gettext as _} from 'resource:///org/gnome/shell/extensions/extension.js';
+import * as PanelMenu from 'resource:///org/gnome/shell/ui/panelMenu.js';
+import * as PopupMenu from 'resource:///org/gnome/shell/ui/popupMenu.js';
+
+import * as Main from 'resource:///org/gnome/shell/ui/main.js';
+
+import {AppIcon} from 'resource:///org/gnome/shell/ui/appDisplay.js';
