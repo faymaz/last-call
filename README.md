@@ -201,17 +201,6 @@ Once the extension is installed and activated, you will see an icon in the GNOME
 
 The panel icon will change every two seconds to give a dynamic appearance. The remaining time until the next prayer will be calculated and, when 15 minutes remain, the `call.mp3` sound file will play as a notification.
 
-### Adding or Modifying Cities
-
-If you want to add more cities, you can modify the `cities` object in the `extension.js` file. For example:
-
-```javascript
-let cities = {
-    "New York": "8869",
-    "London": "10713"  // Add new city like this
-};
-```
-
 ## Customization
 
 - **Icons**: The extension uses two icons (`mosque_whi.png` and `mosque_yel.png`) located in the `icons/` directory. You can customize these icons or replace them with your own.
