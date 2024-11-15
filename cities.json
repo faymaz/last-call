@@ -1,6 +1,7 @@
 {
   "cities": [
     { "name": "İstanbul", "url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/9541/prayer-time-for-istanbul" },
+    { "name": "Ankara", "url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/9206/prayer-time-for-ankara" },
     { "name": "Mörfelden-Walldorf", "url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/10214/morfelden---walldorf-icin-namaz-vakti" },
     { "name": "Tuttlingen", "url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/11083/tuttlingen-icin-namaz-vakti" },
     { "name": "Costa Mesa", "url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/8608/costa-mesa-icin-namaz-vakti" },
