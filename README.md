@@ -5,6 +5,12 @@
 
 **Author:** [faymaz](https://github.com/faymaz)
 
+
+![Last-Call - 1](img/Last-Call_1.png)
+
+![Last-Call - 2](img/Last-Call_2.png)
+
+
 _Last Call_ is a GNOME Shell extension that displays upcoming prayer times by fetching data from the official website of the Presidency of Religious Affairs of Turkey (Diyanet İşleri Başkanlığı). It shows the next prayer time and the remaining time in the GNOME Shell top panel. The extension provides notifications and sound alerts as prayer times approach. It supports multiple cities and allows users to select their preferred city.
 
 ### Features
@@ -311,4 +317,5 @@ Katkılarınızı bekliyoruz! Sorunlar ve pull request'ler için [GitHub deposun
 ### Lisans
 
 Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
+
 
