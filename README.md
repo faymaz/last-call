@@ -10,6 +10,10 @@
 
 ![Last-Call - 2](img/Last-Call_2.png)
 
+![Last-Call - 3](img/Last-Call_3.png)
+
+![Last-Call - 4](img/Last-Call_4.png)
+
 ![Last-Call - Configuration Menu](img/config_menu.png)
 
 

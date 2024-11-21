@@ -8,3 +8,17 @@
         visibility: hidden;
     }
 }
+
+.loading-indicator {
+    animation: rotate 2s linear infinite;
+    margin-left: 4px;
+}
+
+@keyframes rotate {
+    from {
+        -rotation-angle: 0deg;
+    }
+    to {
+        -rotation-angle: 360deg;
+    }
+}
